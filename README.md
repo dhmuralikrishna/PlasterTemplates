@@ -1,0 +1,2 @@
+# PlasterTemplates
+Custom plaster templates
